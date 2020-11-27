@@ -1,0 +1,15 @@
+{
+  "name": "extract-legend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract-legend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "underscore": "^1.11.0"
+  }
+}
